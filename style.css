@@ -1,0 +1,169 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.font-size {
+    font-size: 700px;
+}
+
+.helping-people {
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+
+.helping-people p {
+    margin: 0%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(white, orange);
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
+
+.button-margin {
+    margin-top: 30px;
+}
+
+.banner {
+    background-image: url("images/donation9.jpg");
+    background-size: cover;
+    height: 500px;
+}
+
+.dollar {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.other-amount {
+    color: rgb(188, 183, 183);
+}
+
+.donation-today {
+    text-align: center;
+}
+
+.donation-today p {
+    margin: 0%;
+}
+
+.donate-price {
+    display: flex;
+    text-align: center;
+    margin-left: 300px;
+}
+
+.half-width {
+    width: 5%;
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+#box-color {
+    border: 4px solid rgb(134, 132, 132);
+    border-radius: 5px;
+}
+
+#box {
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+.box-color {
+    background-color: rgb(233, 242, 242);
+}
+
+.flexible-container {
+    display: flex;
+    margin-left: 130px;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+
+.planning-width {
+    width: 33%;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 80px;
+}
+
+.food-color {
+    background-color: rgb(233, 242, 242);
+}
+
+.align {
+    text-align: justify;
+}
+
+.shelter-color {
+    background-color: rgba(255, 89, 89, 0.1);
+    ;
+}
+
+.education {
+    background-color: rgb(255, 245, 204);
+}
+
+.contribute {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+
+.donation {
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.donation img {
+    width: 90%;
+}
+
+.updates {
+    margin-bottom: 50px;
+}
+
+.input-tag {
+    height: 30px;
+    width: 250px;
+    margin-top: 60px;
+}
+
+.subscribe-color {
+    background-color: rgb(255, 245, 204);
+    height: 150px;
+    width: 600px;
+    margin-left: 30%;
+}
+
+footer {
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 120px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+#humble {
+    font-family: 'Lobster', cursive;
+    color: orange;
+}
